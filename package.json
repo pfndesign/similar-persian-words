@@ -1,6 +1,6 @@
 {
   "name": "similar-persian-words",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "list of similar words to persian words",
   "main": "index.js",
   "bin": {

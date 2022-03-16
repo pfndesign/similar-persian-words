@@ -98,6 +98,12 @@ because of that memory and CPU usage is very low and finding data is very fast b
 
 using compression and decompression is defeating the purpose of precalculation of data
 
+## Related
+
+*   [`persian-words-category`](https://github.com/pfndesign/persian-words-category)
+*   [`an-array-of-persian-words`](https://github.com/pfndesign/an-array-of-persian-words)
+*   [`persian-words-pronunciation`](https://github.com/pfndesign/persian-words-pronunciation)
+
 [MIT][license] © [Peyman farahmand][author]
 
 <!-- Definition -->
