@@ -1,0 +1,38 @@
+{
+  "name": "similar-persian-words",
+  "version": "1.0.0",
+  "description": "list of similar words to persian words",
+  "main": "index.js",
+  "bin": {
+    "persiansimilarwords": "./cli.js",
+    "similar-persian-words": "./cli.js"
+  },
+  "scripts": {
+    "test-api": "node test",
+    "test": "npm run test-api"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pfndesign/similar-persian-words.git"
+  },
+  "keywords": [
+    "words",
+    "list",
+    "persian",
+    "similar",
+    "similarity",
+    "language"
+  ],
+  "author": "peyman farahmand <pfndesigen@gmail.com> (https://www.linkedin.com/in/pfndesign)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pfndesign/similar-persian-words/issues"
+  },
+  "homepage": "https://github.com/pfndesign/similar-persian-words#readme",
+  "devDependencies": {
+    "tape": "^5.5.2"
+  },
+  "dependencies": {
+    "yargs": "^17.3.1"
+  }
+}
