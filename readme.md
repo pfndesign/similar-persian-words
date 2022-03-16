@@ -91,8 +91,11 @@ Options:
 ```
 ## NOTICE
 this library is heavy in size (around 3GB of JSON data for similarity db)
+
 all of the data for this library is pre-calculated therefore the size of this library is large
+
 because of that memory and CPU usage is very low and finding data is very fast but disk usage is high 
+
 using compression and decompression is defeating the purpose of precalculation of data
 
 [MIT][license] © [Peyman farahmand][author]
